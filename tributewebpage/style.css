@@ -43,6 +43,7 @@ body{
 }
 
 .image_container img{
+    position: relative;
     width: 600px;
     height: 500px;
     border-radius: 6rem;
@@ -56,6 +57,7 @@ body{
 }
 
 .heros_image_container img{
+    position: relative;
     border-radius: 6rem;
     width: 600px;
     height: 500px;
